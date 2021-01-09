@@ -1,0 +1,4 @@
+# In _toc.yml
+- file: index
+- sections:
+    - file: page01

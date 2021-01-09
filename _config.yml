@@ -1,0 +1,4 @@
+# in _config.yml
+title: "test page"
+execute:
+  execute_notebooks: "off"
